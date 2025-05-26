@@ -34,3 +34,21 @@ Create a Library Management System using Core Java that performs basic operation
     * returnBook( )
     * toString( )
 - Main (Class)
+
+## 3. 🧮 JDBC (Java Database Connectivity) - prior to MySQL
+  ### Basically, there are two packages, Learning & App. 
+  **Follow Learning first and then go for App**
+ - Created a sample flow of how JDBC works. *[Step-by-step]*
+ - Before running the application make sure your system is being ready with the pre-requisites. *[DB related Stuffs]*
+ - After following the learning thing, you should go for the APP. *[for a fully functional test at a time]*
+   ### 📌 Problem Statement
+   Create a Student Management System using **JDBC** that performs basic operations to :
+   * insertStudent()
+   * updateStudent()
+   * deleteStudent()
+   * viewAllStudents()
+   ### 🎯 Objectives
+   - A separate class to handle Database Connection
+   - Then a class to handle Database Operations
+   - And one Main class for application Menu Driven
+   
